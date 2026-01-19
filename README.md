@@ -1,0 +1,1 @@
+# 风之痕迹素材库- origin 原图- compress 压缩图cdn链接: https://cdn.jsdelivr.net/gh/wlnyx/fzhj-assets-repo@main/compressed/weapon/ic_weapon_detail_xxxx.png 或 https://cdn.jsdelivr.net/gh/wlnyx/fzhj-assets-repo@main/origin/weapon/ic_weapon_detail_xxxx.png
