@@ -1,1 +1,1 @@
-# ·çÖ®ºÛ¼£ËØ²Ä¿â- origin Ô­Í¼- compress Ñ¹ËõÍ¼cdnÁ´½Ó: https://cdn.jsdelivr.net/gh/wlnyx/fzhj-assets-repo@main/compressed/weapon/ic_weapon_detail_xxxx.png »ò https://cdn.jsdelivr.net/gh/wlnyx/fzhj-assets-repo@main/origin/weapon/ic_weapon_detail_xxxx.png
+# é£ä¹‹ç—•è¿¹ç´ æåº“- origin åŸå›¾- compress å‹ç¼©å›¾ç‰‡cdné“¾æ¥: https://cdn.jsdelivr.net/gh/wlnyx/fzhj-assets-repo@main/compressed/weapon/ic_weapon_detail_xxxx.png æˆ– https://cdn.jsdelivr.net/gh/wlnyx/fzhj-assets-repo@main/origin/weapon/ic_weapon_detail_xxxx.png
